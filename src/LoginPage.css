@@ -1,0 +1,15 @@
+/* src/LoginPage.css */
+.login-container {
+    background-color: #f3e5e5;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+  }
+  
+  .login-header {
+    font-family: 'Microsoft YaHei UI', sans-serif;
+    color: #333;
+  }
+  
