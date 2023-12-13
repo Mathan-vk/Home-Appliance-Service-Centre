@@ -1,0 +1,119 @@
+body {
+      background:rgb(112, 106, 108);
+    background-color: black;
+    font-family: sans-serif;
+    }
+    .imf{
+      width:38vw;
+      height:93vh;
+      background-color: rgb(48, 66, 45);
+      position: absolute;
+      left:13%;
+      top:4%;
+    }
+    h2{
+      margin-left: 50px;
+      position: relative;
+      top:3%;
+    }
+    .fir{
+        margin-top: 50px;
+        height: 70%;
+        width:80%;
+    }
+    .dim{
+      width:50%;
+      height: 100%;
+    }
+    img{
+      position:absolute;
+      left:19%;
+      top:14%;
+      height: 68vh;
+      width:65%;
+    }
+    form{
+      width:36%;
+      height:93%;
+      background-color: rgb(209, 207, 213);
+      position: absolute;
+      left:51%;
+      top:4%;
+      border-radius: 0px;
+    }
+    input{
+      width:95%;
+      height: 9%;
+      font-size: 14px;
+      padding-left: 15px;
+      margin-left: 42px;
+      margin-top:14px;
+      border:0.5px solid rgb(199, 198, 198);
+    }
+    input:hover{
+      border: 1px solid rgb(104, 103, 103);
+    }
+     label{
+      position:relative;
+      font-weight:4200;
+      position: relative;
+      left:15%;
+      top:3%;
+    }
+    .uname{
+      font-weight: 600;
+      margin-left: 10%;
+      position: relative;
+      top:2%;
+    }
+    button{
+      font-size: 18px;
+      font-weight: 600;
+      color:#f4f6f4;
+      width:98%;
+      height:12%;
+      background-color: rgb(249, 44, 13);
+      border-radius: 2px;
+      border:1px solid rgb(187, 189, 199);
+      margin-top: 5%;
+      margin-left: 48px;
+    }
+    .forget{
+      color:rgb(177, 177, 204);
+      font-weight: 550;
+      margin-top: 8%;
+      margin-left: 40%;
+    }
+    .success {
+      position: absolute;
+      right: 20%;
+      top: 60%;
+      padding: 25px 0 0 20px;
+      height: 11vh;
+      width: 18%;
+      timeline-scope: 10s;
+    }
+    
+    
+    /*.success{
+      position: absolute;
+      right:1%;
+      top:0;
+      padding: 25px 0 0 20px;
+      height: 12vh;
+      width: 18%;
+      /*background-color: #fff;
+      border: 1px solid gray;
+    }
+    .success ::after{
+      background-color: #fff;
+      border: 1px solid gray;
+    }
+    @keyframes App-logo-spin {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(360deg);
+      }
+    }*/
