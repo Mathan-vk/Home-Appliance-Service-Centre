@@ -1,0 +1,88 @@
+/* LoginPage.css */
+
+.body {
+    background-color: rgb(166, 163, 182);
+    font-family: sans-serif;
+  }
+  
+  h2 {
+    margin-left: 50px;
+    position: relative;
+    top: 3%;
+  }
+  
+  .fir {
+    margin-top: 50px;
+    height: 70%;
+    width: 80%;
+  }
+  
+  img {
+    position: absolute;
+    left: 21%;
+    top: 13%;
+    height: 70vh;
+    width: 29%;
+  }
+  
+  form {
+    width: 40%;
+    height: 70%;
+    background-color: rgb(155, 122, 133);
+    position: absolute;
+    left: 10%;
+    top: 10%;
+    border-radius: 0px;
+  }
+  
+  input {
+    width: 95%;
+    height: 12%;
+    font-size: 14px;
+    padding-left: 15px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border: 0.5px solid rgb(199, 198, 198);
+  }
+  
+  input:hover {
+    border: 1px solid rgb(229, 229, 234);
+  }
+  
+  label {
+    position: relative;
+    font-weight: 600;
+    left: 15%;
+    top: 3%;
+  }
+  
+  button {
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+    width: 95%;
+    height: 12%;
+    background-color: rgb(22, 67, 213);
+    border-radius: 5%;
+    border: 1px solid rgb(221, 215, 215);
+    margin-top: 12%;
+    margin-left: 48px;
+  }
+  
+  .forget {
+    color: rgb(56, 56, 209);
+    font-weight: 550;
+    margin-top: 8%;
+    margin-left: 40%;
+  }
+  
+  .success {
+    position: absolute;
+    right: 1%;
+    top: 30;
+    padding: 25px 0 0 20px;
+    height: 12vh;
+    width: 18%;
+    timeline-scope: 10s;
+  }
+  
